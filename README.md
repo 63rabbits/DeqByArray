@@ -1,0 +1,3 @@
+# DeqByArray
+
+Deq using array.
